@@ -1,0 +1,8 @@
+Build the make.fun entry "Sleeve Notes for the Frog Trio" (u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5).
+Write main.py (Python, deterministic, no network) that writes an album
+title plus a short back-cover blurb, at most 400 characters in total, to
+/output/entry.txt. The trio is three frogs playing jazz — tenor sax, upright
+bass and drums — at a late-night club. The title must be short, evocative
+and jazz-flavoured; the blurb must sound like a record shop owner who has
+actually heard them play, treat the frog premise straight, and stay tight
+with no cliches or filler.
